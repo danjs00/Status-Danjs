@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Creating new clan","Listening to Spotify","Programming JS"];
+const statusMessages = ["Magic Community","Listening to Spotify","Programming JS"];
 
 
 let currentIndex = 0;
