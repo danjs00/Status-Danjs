@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["🌸 insanity.glide.page","Listening to Spotify","Programming JS"];
+const statusMessages = ["🏵️ insanity.glide.page","🍑 Listening to Spotify","Programming JS"];
 
 
 let currentIndex = 0;
